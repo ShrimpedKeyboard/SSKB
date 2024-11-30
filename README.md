@@ -15,6 +15,7 @@ The case uses m3 screws with heat set inserts and the the plate uses m2 screws /
 
 ![alt text](https://github.com/ShrimpedKeyboard/SSKB/blob/main/Pics/Case%201.png?raw=true)
 ![alt text](https://github.com/ShrimpedKeyboard/SSKB/blob/main/Pics/Case%202.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/SSKB/blob/main/Pics/Case%203.png?raw=true)
 
  --- 
 
