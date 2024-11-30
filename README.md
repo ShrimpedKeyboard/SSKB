@@ -10,7 +10,7 @@ The sskb is a 40% hhkb style keyuboard with an xt row on the left
 
 ## Case
 
-sskb uses a 3dp 2 peice case with an acrylic weight 
+sskb uses a 3dp 2 peice case with an acrylic weight with an rgb accent inside one of the hhkc blockers 
 The case uses m3 screws with heat set inserts and the the plate uses m2 screws / 40mm gaskets
 
 ![alt text](https://github.com/ShrimpedKeyboard/SSKB/blob/main/Pics/Case%201.png?raw=true)
