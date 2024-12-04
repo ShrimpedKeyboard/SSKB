@@ -22,6 +22,7 @@ The case uses one optional m2 screw and nut with 12 magnet slots on each side of
 ## PCB
 
 Topre vial pcb 
+Or hotswap mx vial pcb both pcbs have a a ton of rgb for the two accents 
 
  --- 
 
